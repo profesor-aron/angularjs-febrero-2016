@@ -1,0 +1,8 @@
+1.- Apache Tomcat 8
+http://mirrors.ircam.fr/pub/apache/tomcat/tomcat-8/v8.0.32/bin/apache-tomcat-8.0.32.zip
+2.- Eclipse IDE
+http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/mars1
+
+TM Terminal 4.0 (M7)
+Control Alt T
+bower install -S angular-ui-router
